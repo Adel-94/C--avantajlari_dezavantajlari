@@ -1,0 +1,18 @@
+C# avantajlari :
+1.Windows-da desktop application  deyilende agila gelen ilk proqramlasdirma dilidir.
+2.Visual Studio-ya sahibdir.
+3.Cox tutarli dildir.C diline yaxin sintaksise malik diller arasinda struktur olaraq en cox inkisaf etmis olandir.
+4.Microsoft sistemlerinde cox suretli isleyir.
+5.OLP mentiqinde olmasi en boyuk ustunluyudur.temelden obyekt yonumlu dildir.
+6.Yaddas problemi olarsa hec bir problem olmaz.
+7.Zengin kitabxanalara malikdir.
+8.Daha oxunaqli kodlasdirilma.Get-set metodlari bunu icra edir.
+9.Secim qitligi. Microsofdasinizsa,her sey icin tool vardir.Yeni,temel olaraq,tool-a ehitiyaciniz vardir
+ve istifade olunmalidir.
+10.Muxtelif oyunlar yazila biler.
+11.Serti kompilyasiya
+
+
+
+C# dezavantajlari:
+1.Windows olmadan bir ise yaramair.
